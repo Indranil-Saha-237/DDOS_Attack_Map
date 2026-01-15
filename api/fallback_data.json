@@ -1,0 +1,12 @@
+{
+    "attacks": [
+        { "ip": "8.8.8.8", "type": "DDoS", "target": "Global-DNS" },
+        { "ip": "103.203.57.2", "type": "Brute Force", "target": "Tokyo-Hu"
+      },
+     { "ip": "185.220.101.5", "type": "Malware", "target": "London-DC" },
+     { "ip": "45.33.2.1", "type": "Botnet", "target": "US-East" },
+     { "ip": "117.218.201.5", "type": "DDoS", "target": "India-South" },
+     { "ip": "190.114.253.1", "type": "SQLi", "target": "Brazil-Edge" },
+     { "ip": "210.16.120.1", "type": "Exploit", "target": "Sydney-Node" }
+    ]
+   }
